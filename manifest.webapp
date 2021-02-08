@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "name": "KaiOS C2 Sample",
+  "description": "KaiOS C2 Sample",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "114": "icon-114.png",
+    "128": "icon-128.png"
+  },
+  "developer": {
+    "name": "KaiOS Tehnologies",
+    "url": "http://www.kaiostech.com"
+  },
+  "locales": {
+    "en-US": {
+      "name": "KaiOS App",
+      "subtitle": "Short description for the user",
+      "description": "Brief description of your app"
+    }
+   },
+	"dependencies": {
+		"ads-sdk": "1.4.0"
+	}
+ 
+}
